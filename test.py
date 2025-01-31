@@ -1,7 +1,6 @@
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
 import numpy as np
-import matplotlib.pyplot as plt
 from tkinter import Tk, filedialog, Button, Label
 from PIL import Image, ImageTk
 
